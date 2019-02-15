@@ -38,7 +38,7 @@ var friendsArray = [
     },
     {
         friendName: "John",
-      friendImg: "https://images.pexels.com/photos/683381/pexels-photo-683381.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+      friendImg: "https://www.thedailymash.co.uk/wp-content/uploads/40-something-man-2-1.jpg",
       scores: [
           5,
           5,
